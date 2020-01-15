@@ -17,6 +17,7 @@ body {
 a {
   color: #fdcc52;
   transition: all .35s;
+  margin:5px;
 }
 
 a:hover, a:focus {
